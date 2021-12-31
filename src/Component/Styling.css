@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(pink,blue,green);
+    height: 100vh;
+    overflow-x: hidden;
+}
+.main-div{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: aqua;
+font-style: italic;
+height: 40px;
+padding: 10px;
+font-size: 25px;
+
+}
+.main-div1{
+    text-decoration: none;
+}
+.main-body{
+    margin-top: 15px;
+    margin-left: 885px;
+    font-size: 20px;
+    /* width: 110px; */
+    padding: 10px;
+    border-radius: 20px;
+}
+.main2{
+    margin-top: 20px;
+    background-color: cornsilk;
+
+}
